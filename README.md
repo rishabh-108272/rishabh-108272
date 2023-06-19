@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishabh-108272
 - [![@rishabh_108272's Holopin board](https://holopin.me/rishabh_108272)](https://holopin.io/@rishabh_108272)
-- 👀 I’m interested in C C++ Java python and Web development
-- 🌱 I’m currently learning basics of C and C++.
+- 👀 I’m interested in C C++ Java python, Web development and App development.
+- 🌱 I’m currently learning DSA in C++ and python and learning its various libraries.
 - 💞️ I’m looking to collaborate on interesting projects from which I can learn a lot of things.
 - 📫 How to reach me 
 - https://www.linkedin.com/in/rishabh-verma-875214247/

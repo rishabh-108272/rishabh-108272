@@ -6,8 +6,6 @@
 - 📫 How to reach me 
 - https://www.linkedin.com/in/rishabh-verma-875214247/
 
-![github-wrapped](https://github.com/user-attachments/assets/3476c2a5-a3ed-4ab7-b641-315a00625443)
-
 <!---
 rishabh-108272/rishabh-108272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

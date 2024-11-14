@@ -6,7 +6,6 @@
 - 📫 How to reach me 
 - https://www.linkedin.com/in/rishabh-verma-875214247/
 
-[![GitHub Trends SVG](https://api.githubtrends.io/rishabh-108272/svg/avgupta456/langs)](https://githubtrends.io)
 <!---
 rishabh-108272/rishabh-108272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

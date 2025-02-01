@@ -26,3 +26,5 @@ I'm eager to collaborate on **exciting AI/ML projects** that push boundaries and
 ---  
 > **"The only way to do great work is to love what you do." – Steve Jobs**  
 ---  
+
+![Rishabh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh-108272&theme=react-dark&hide_border=true&area=true)

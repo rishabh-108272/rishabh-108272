@@ -1,33 +1,102 @@
-# 👋 Hi, I'm Rishabh Verma!  
+# 👋 Hi, I'm Rishabh Verma  
 
-🚀 Passionate about technology, innovation, and problem-solving, I love exploring the world of **Machine Learning, Computer Vision, and Natural Language Processing.**  
+🚀 **AI & ML Engineer | Full-Stack AI Builder | Curious Systems Thinker**
 
-## Hacktoberfest 2024 🚀
-[![@rishabh_108272's Holopin board](https://holopin.me/rishabh_108272)](https://holopin.io/@rishabh_108272)
+I build **intelligent systems end-to-end** — from **deep learning models** to **production-ready AI platforms**.  
+Right now, I’m sharpening my edge by going deeper into **full-stack engineering**, **LLM internals**, and **MLOps**, while still shipping real-world AI solutions.
 
-## 👀 Interests  
-- 🔹 **Machine Learning & Deep Learning**  
-- 🔹 **Computer Vision & Image Processing**  
-- 🔹 **Natural Language Processing (NLP)**  
-- 🔹 **Software Development & AI Applications**  
+I consider myself a **Full-Stack AI Engineer** —  
+but yeah, still decoding the *true* soul of full-stack engineering 😄
 
-## 🌱 Currently Exploring  
-- 🚀 Advanced **Deep Learning architectures**  
-- 🏷️ **YOLO models** for object detection  
-- 🎯 **Attention-based CNNs** for image classification  
-- ⚡ **Optimization techniques** for AI models  
+---
 
-## 💡 Collaboration  
-I'm eager to collaborate on **exciting AI/ML projects** that push boundaries and offer deep learning opportunities. Feel free to connect if you have an **innovative idea** or a **challenging project**!  
+## 🧠 What I Do
+- Design & train **ML / DL models** (CV, NLP, XAI)
+- Build **AI-powered SaaS platforms**
+- Integrate **LLMs into real applications**
+- Turn research ideas into **scalable systems**
+- Obsess over **clean architecture & explainability**
 
-## 📫 Connect with Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/rishabh-verma-875214247/)  
+---
 
----  
-> **"The only way to do great work is to love what you do." – Steve Jobs**  
----  
-## 🐍 Watch My Contributions Snake Around!
-![snake gif](https://github.com/rishabh-108272/rishabh-108272/blob/main/github-contribution-grid-snake-dark.svg)
+## 🔥 Currently Working On
+- 🧩 **Full-Stack Development**
+  - Deep diving into **Django, FastAPI, React, Node.js**
+  - Understanding backend architecture beyond “just APIs”
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh-108272&theme=react-dark&hide_border=true&area=true)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabh-108272&show_icons=true&theme=tokyonight)
+- 🧠 **LLMs – from math to production**
+  - Trying to reach the **mathematical core of LLMs**
+  - Transformers, attention, optimization intuition
 
+- 🔗 **Agentic & LLM Frameworks**
+  - Exploring **LangChain** & **LangGraph**
+  - Multi-agent workflows & reasoning pipelines
+
+- ⚙️ **MLOps**
+  - Model versioning, deployment & monitoring
+  - Bridging the gap between notebooks and production
+
+---
+
+## 🛠️ Tech Stack (The Real One)
+
+### 🤖 AI / Machine Learning
+- **TensorFlow**, **PyTorch**, **Keras**
+- Scikit-Learn, Deep Learning
+- NLP, Computer Vision
+- Explainable AI (**SHAP**, **LIME**)
+- Predictive & Prescriptive Modeling
+
+### 🧠 LLM & GenAI
+- HuggingFace
+- LangChain, LangGraph
+- RAG Pipelines
+- FAISS, Pinecone
+- Prompt Engineering
+
+### 🌐 Full-Stack & Backend
+- **Django**, **FastAPI**
+- React.js
+- Node.js, Express.js
+- REST APIs, GraphQL
+- JWT Authentication
+
+### 🗄️ Data & Databases
+- PostgreSQL, SQL, NoSQL
+- Pandas, NumPy
+- Data Analysis & Pipelines
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3)
+- CI/CD Pipelines
+- Docker (learning & applying)
+- Git & GitHub
+
+---
+
+## 🚀 What I Love Building
+- AI-powered **SaaS platforms**
+- Explainable healthcare & bioinformatics models
+- Intelligent recommendation systems
+- End-to-end ML products (not just models)
+
+---
+
+## 🤝 Open to Collaborations
+If you’re building:
+- AI products
+- LLM-based systems
+- Research-driven ML projects
+- Or something that scares you a little 👀  
+
+I’m in.
+
+---
+
+## 📫 Let’s Connect
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/rishabh-verma-875214247/
+- 💻 **GitHub**: https://github.com/rishabh-108272
+
+---
+
+> *“Still learning. Still building. Still breaking things — and fixing them better.”*

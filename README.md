@@ -4,18 +4,32 @@ AI & ML Engineer | Full-Stack AI Builder | Applied Research Enthusiast
 </h3>
 
 <p align="center">
-I build <b>end-to-end AI systems</b> — from data & models to scalable, production-ready applications.
+I build <b>end-to-end AI systems</b> from data & models to scalable, production-ready applications.
 My work sits at the intersection of <b>Machine Learning, Deep Learning, LLMs, and Full-Stack Engineering</b>.
 </p>
 
 ---
 
 ### 🔭 Current Work
-- Actively developing **OmicsAI – A Multi-Omics AI SaaS Platform**  
-  👉 <a href="https://github.com/rishabh-108272/OmicsAI-main">View Project</a>  
-  - Multi-omics data integration (RNA-Seq, clinical, molecular data)
-  - Explainable AI (SHAP/LIME)
-  - AI-driven research & healthcare workflows
+Actively building and maintaining **multiple AI-driven projects**, focused on real-world deployment, explainability, and scalable system design:
+
+- **OmicsAI – Multi-Omics AI SaaS Platform**  
+  👉 https://github.com/rishabh-108272/OmicsAI-main  
+  - Multi-omics data integration (RNA-Seq, clinical, molecular data)  
+  - Explainable AI using SHAP & LIME  
+  - AI-assisted research and healthcare workflows  
+
+- **CraftIQ – AI Tools SaaS Platform**  
+  👉 https://github.com/rishabh-108272  
+  - Full-stack AI SaaS platform with multiple AI-powered utilities  
+  - Authentication, role-based access, CI/CD, cloud deployment  
+  - Focus on production-ready AI features  
+
+- **LLM & Agentic AI Experiments**  
+  👉 https://github.com/rishabh-108272  
+  - Retrieval-Augmented Generation (RAG) pipelines  
+  - Agent-based workflows using LangChain & LangGraph  
+  - Research-focused experimentation with real application goals  
 
 ---
 

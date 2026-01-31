@@ -1,102 +1,18 @@
-# 👋 Hi, I'm Rishabh Verma  
+<h1 align="center">Hi 👋, I'm Rishabh Verma</h1>
+<h3 align="center">AI AI & ML Engineer | Full-Stack AI Builder | Curious Systems Thinker</h3>
 
-🚀 **AI & ML Engineer | Full-Stack AI Builder | Curious Systems Thinker**
+- 🔭 I’m currently working on [OmicsAI-Multi omics AI SaaS Platform](https://github.com/rishabh-108272/OmicsAI-main)
 
-I build **intelligent systems end-to-end** — from **deep learning models** to **production-ready AI platforms**.  
-Right now, I’m sharpening my edge by going deeper into **full-stack engineering**, **LLM internals**, and **MLOps**, while still shipping real-world AI solutions.
+- 🌱 I’m currently learning **Full Stack engineering**
 
-I consider myself a **Full-Stack AI Engineer** —  
-but yeah, still decoding the *true* soul of full-stack engineering 😄
+- 💬 Ask me about **Artificial Intelligence, Machine Learning and anything related to tech you'd like!**
 
----
+- 📫 How to reach me **rishabhverma3648@gmail.com**
 
-## 🧠 What I Do
-- Design & train **ML / DL models** (CV, NLP, XAI)
-- Build **AI-powered SaaS platforms**
-- Integrate **LLMs into real applications**
-- Turn research ideas into **scalable systems**
-- Obsess over **clean architecture & explainability**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rishabh-verma-875214247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishabh-verma-875214247/" height="30" width="40" /></a>
+</p>
 
----
-
-## 🔥 Currently Working On
-- 🧩 **Full-Stack Development**
-  - Deep diving into **Django, FastAPI, React, Node.js**
-  - Understanding backend architecture beyond “just APIs”
-
-- 🧠 **LLMs – from math to production**
-  - Trying to reach the **mathematical core of LLMs**
-  - Transformers, attention, optimization intuition
-
-- 🔗 **Agentic & LLM Frameworks**
-  - Exploring **LangChain** & **LangGraph**
-  - Multi-agent workflows & reasoning pipelines
-
-- ⚙️ **MLOps**
-  - Model versioning, deployment & monitoring
-  - Bridging the gap between notebooks and production
-
----
-
-## 🛠️ Tech Stack (The Real One)
-
-### 🤖 AI / Machine Learning
-- **TensorFlow**, **PyTorch**, **Keras**
-- Scikit-Learn, Deep Learning
-- NLP, Computer Vision
-- Explainable AI (**SHAP**, **LIME**)
-- Predictive & Prescriptive Modeling
-
-### 🧠 LLM & GenAI
-- HuggingFace
-- LangChain, LangGraph
-- RAG Pipelines
-- FAISS, Pinecone
-- Prompt Engineering
-
-### 🌐 Full-Stack & Backend
-- **Django**, **FastAPI**
-- React.js
-- Node.js, Express.js
-- REST APIs, GraphQL
-- JWT Authentication
-
-### 🗄️ Data & Databases
-- PostgreSQL, SQL, NoSQL
-- Pandas, NumPy
-- Data Analysis & Pipelines
-
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3)
-- CI/CD Pipelines
-- Docker (learning & applying)
-- Git & GitHub
-
----
-
-## 🚀 What I Love Building
-- AI-powered **SaaS platforms**
-- Explainable healthcare & bioinformatics models
-- Intelligent recommendation systems
-- End-to-end ML products (not just models)
-
----
-
-## 🤝 Open to Collaborations
-If you’re building:
-- AI products
-- LLM-based systems
-- Research-driven ML projects
-- Or something that scares you a little 👀  
-
-I’m in.
-
----
-
-## 📫 Let’s Connect
-- 🔗 **LinkedIn**: https://www.linkedin.com/in/rishabh-verma-875214247/
-- 💻 **GitHub**: https://github.com/rishabh-108272
-
----
-
-> *“Still learning. Still building. Still breaking things — and fixing them better.”*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>

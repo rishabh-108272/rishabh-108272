@@ -46,7 +46,7 @@ Actively building and maintaining **multiple AI-driven projects**, focused on re
 
 ---
 
-### 💼 What I Can Help You With (Upwork / Client-Focused)
+### 💼 What I Can Help You With
 - ✔️ End-to-end **AI / ML solutions**
 - ✔️ Custom **Deep Learning models** (CV, NLP, Healthcare AI)
 - ✔️ **LLM-powered applications** (RAG, agents, assistants)

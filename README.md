@@ -33,9 +33,9 @@ Actively building and maintaining **multiple AI-driven projects**, focused on re
 
 ### 🌱 What I'm Currently Learning & Exploring
 - **Open Source Contribution in Amazing Projects & Libraries**
-    -Decode the project.
-    -Understand the what, how & why.
-    -Craft improvements. Leave clean commit trails.
+    - Decode the project.
+    - Understand the what, how & why.
+    - Craft improvements. Leave clean commit trails.
 - **Large Language Models (LLMs)**
   - Understanding the <b>mathematical & architectural foundations</b>
   - Agentic workflows using <b>LangChain & LangGraph</b>

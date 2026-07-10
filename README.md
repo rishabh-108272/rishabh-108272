@@ -29,24 +29,22 @@ Actively building and maintaining **multiple AI-driven projects**, focused on re
   - Authentication, role-based access, CI/CD, cloud deployment  
   - Focus on production-ready AI features  
 
-- **LLM & Agentic AI Experiments**  
-  👉 https://github.com/rishabh-108272  
-  - Retrieval-Augmented Generation (RAG) pipelines  
-  - Agent-based workflows using LangChain & LangGraph  
-  - Research-focused experimentation with real application goals  
-
 ---
 
 ### 🌱 What I'm Currently Learning & Exploring
-- **Full-Stack Engineering (Production-first mindset)**
-  - Scalable backend systems (Django, FastAPI)
-  - Modern frontend workflows (React)
+- **Open Source Contribution in Amazing Projects & Libraries**
+    -Decode the project.
+    -Understand the what, how & why.
+    -Craft improvements. Leave clean commit trails.
 - **Large Language Models (LLMs)**
   - Understanding the <b>mathematical & architectural foundations</b>
   - Agentic workflows using <b>LangChain & LangGraph</b>
 - **MLOps**
   - Model lifecycle management
   - Deployment, monitoring & CI/CD for ML systems
+**Full-Stack Engineering (Production-first mindset)**
+  - Scalable backend systems (Django, FastAPI)
+  - Modern frontend workflows (React)
 
 ---
 
